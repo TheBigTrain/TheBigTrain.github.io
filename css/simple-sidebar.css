@@ -14,6 +14,10 @@
     transition: all 0.5s ease;
 }
 
+.linkTags {
+  color:white;
+}
+
 #wrapper.toggled {
     padding-left: 250px;
 }
